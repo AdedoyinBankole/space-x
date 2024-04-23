@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="bootstrap-5.0.2-dist/css/bootstrap.css">
+</head>
+<body>
+    
+    <link rel="stylesheet" href="bootstrap-5.0.2-dist/css/bootstrap.css">
+    <link rel="stylesheet" href="style.css">
+
+    <nav class=" bg-dark pt-5 pb-3 ps-5 justify-content-center alligns">
+        <div class="row">
+         <div  class=" col-lg-9 col-12 d-flex  align-items-center ">
+             <img src="/image/SpaceX_logo_white_6eaf0441-42af-4396-974e-d6dc2f8ff45c_160x@2x.png" alt="">  
+             <div class="ps-4 ">
+             <a href="#" class="text-decoration-none text-white fw-bold pe-4 ">X COLLECTIONS</a>
+             <a href="#"  class="text-decoration-none text-white fw-bold pe-4 ">MENS</a>
+             <a href="#"  class="text-decoration-none text-white fw-bold pe-4 ">WOMENS</a>
+             <a href="#"  class="text-decoration-none text-white fw-bold pe-4 "> KIDS</a>
+             <a href="#"  class="text-decoration-none text-white fw-bold pe-4 ">ACCESSORIES</a>
+         </div>
+         
+         </div>
+         <div class="col-lg-3 col-12 border-3 border-danger ps-5 align-items-center pt-2 justify-content-between pe-2">
+             <a href="login.html"  class=" dun text-decoration-none text-secondary  fw-semibold pe-2 "> ACCOUNT</a>
+             <a href="#"  class=" dune text-decoration-none text-secondary  fw-semibold pe-2">SEARCH</a>
+             <a href="#"  class="text-decoration-none text-white fw-semibold  fs-5 pe-2"> CART (0)</a>
+         </div>
+        </div>
+     </nav>
+
+     <nav class="smallnav bg-dark">
+
+        <div id="mySidepanel" class="sidepanel d-lg-none bg-dark">
+         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+         <a href="login.html">ACCOUNT</a>
+         <a href="create.html">SEARCH</a>
+         <a href="#">X COLLECTIONS</a>
+         <a href="#">MENS</a>
+         <a href="#">WOMENS</a>
+         <a href="#">KIDS</a>
+         <a href="#">ACCESSORIES</a>
+         <a href="#">CARTS</a>
+       </div>
+       
+       <div id="main" class="d-lg-none bg-dark">
+         <button class="openbtn" onclick="openNav()">&#9776; </button>
+         <div class=" d-lg-none">
+             <img src="/image/SpaceX_logo_white_6eaf0441-42af-4396-974e-d6dc2f8ff45c_160x@2x.png" alt="" class="navbar-space">  
+           </div>
+
+            <div class="d-lg-none space-x">
+       <img src="image/svgexport-8.svg" alt="" width="20px" >
+       <img src="image/svgexport-10.svg" alt="" width="20px">
+     </div>
+    </div>
+       </div>
+
+ </nav>
+
+    <div class="text-center mt-5 pt-5 alligns"><h3>REGISTER</h3>
+    <p>Please fill in the information below:</p>
+    <div><input type="text" placeholder="Firstname" required class="w-25 p-2 border-info-subtle "></div>
+    <div><input type="password" placeholder="Lastname" required   class="w-25 p-2 mt-3 "></div>
+    <div><input type="text" placeholder="Email" required class="w-25 p-2 border-info-subtle mt-3 "></div>
+    <div><input type="password" placeholder="Password" required   class="w-25 p-2 mt-3 "></div>
+    <div><input type="button" value="CREATE MY ACCOUNT" class="w-25 p-2 mt-3 bg-dark text-white "></div>
+</div>
+
+<div class="text-center mt-5 pt-5 wid-sub d-lg-none"><h3>REGISTER</h3>
+    <p>Please fill in the information below:</p>
+    <div><input type="text" placeholder="Firstname" required class="w-50 p-2 border-info-subtle "></div>
+    <div><input type="password" placeholder="Lastname" required   class="w-50 p-2 mt-3 "></div>
+    <div><input type="text" placeholder="Email" required class="w-50 p-2 border-info-subtle mt-3 "></div>
+    <div><input type="password" placeholder="Password" required   class="w-50 p-2 mt-3 "></div>
+    <div><input type="button" value="CREATE MY ACCOUNT" class="w-50 p-2 mt-3 bg-dark text-white "></div>
+</div>
+
+
+<footer class="bg-dark  container-fluid  mt-5 pb-5 ">
+    <div class="mt-5 pt-5 text-center "><a href="#" class="text-white text-decoration-none pe-3">FAQs</a>
+        <a href="#" class="text-white text-decoration-none pe-3" >Search</a>
+        <a href="#" class="text-white text-decoration-none pe-3" >Privacy Policy</a>
+        <a href="#" class="text-white text-decoration-none pe-3">Terms & Conditions</a>
+    </div>
+    <div class=" two"><a href="#" class="text-secondary text-decoration-none fw-normal  ">© SPACEX STORE</a></div>
+
+</footer>
+
+<script>
+     
+    function openNav() {
+      document.getElementById("mySidepanel").style.width = "250px";
+    }
+    
+    
+    function closeNav() {
+      document.getElementById("mySidepanel").style.width = "0";
+    }
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+</body>
+</html>

@@ -1,0 +1,859 @@
+*{ margin: 0%;
+  padding: 0%;
+  box-sizing:border-box ;
+  }
+  
+  .one1{
+    width: 556px;
+    position: relative;
+  }
+  .onedune{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  .one1:hover .onedune{
+    opacity: 1;
+  }
+  
+  .one2{
+    width: 556px;
+    position: relative;
+  }
+  .twodune{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  .one2:hover .twodune{
+    opacity: 1;
+  }
+  .one3{
+    width: 556px;
+    position: relative;
+  }
+  .threedune{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  .one3:hover .threedune{
+    opacity: 1;
+  }
+  .one4{
+    width: 556px;
+    position: relative;
+  }
+  .fourdune{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  .one4:hover .fourdune{
+    opacity: 1;
+  }
+  .one5{
+    width: 556px;
+    position: relative;
+  }
+  .fivedune{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  .one5:hover .fivedune{
+    opacity: 1;
+  }
+  .one6{
+    width: 556px;
+    position: relative;
+  }
+  .sixdune{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  .one6:hover .sixdune{
+    opacity: 1;
+  }
+  .one7{
+    width: 556px;
+    position: relative;
+  }
+  .sevendune{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  .one7:hover .sevendune{
+    opacity: 1;
+  }
+  .one8{
+    width: 556px;
+    position: relative;
+  }
+  .eightdune{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  .one8:hover .eightdune{
+    opacity: 1;
+  }
+  .one9{
+    width: 556px;
+    position: relative;
+  }
+  .ninedune{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  .one9:hover .ninedune{
+    opacity: 1;
+  }
+  .one10{
+    width: 556px;
+    position: relative;
+  }
+  .tendune{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  .one10:hover .tendune{
+    opacity: 1;
+  }
+  .one11{
+    width: 556px;
+    position: relative;
+  }
+  .elevendune{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  .one11:hover .elevendune{
+    opacity: 1;
+  }
+  .one12{
+    width: 556px;
+    position: relative;
+  }
+  .twelvedune{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  .one12:hover .twelvedune{
+    opacity: 1;
+  }
+  .one13{
+    width: 556px;
+    position: relative;
+  }
+  .thirteendune{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  .one13:hover .thirteendune{
+    opacity: 1;
+  }
+  .one14{
+    width: 556px;
+    position: relative;
+  }
+  .fourteendune{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  .one14:hover .fourteendune{
+    opacity: 1;
+  }
+  .one15{
+    width: 556px;
+    position: relative;
+  }
+  .fifteendune{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  .one15:hover .fifteendune{
+    opacity: 1;
+  }
+  .one16{
+    width: 556px;
+    position: relative;
+  }
+  .sixteendune{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  .one16:hover .sixteendune{
+    opacity: 1;
+  }
+  .one17{
+    width: 556px;
+    position: relative;
+  }
+  .seventeendune{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  .one17:hover .seventeendune{
+    opacity: 1;
+  }
+  .one18{
+    width: 556px;
+    position: relative;
+  }
+  .eighteendune{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  .one18:hover .eighteendune{
+    opacity: 1;
+  }
+  .one19{
+    width: 556px;
+    position: relative;
+  }
+  .nineteendune{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  .one19:hover .nineteendune{
+    opacity: 1;
+  }
+  .one20{
+    width: 556px;
+    position: relative;
+  }
+  .twentydune{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  .one20:hover .twentydune{
+    opacity: 1;
+  }
+  .one21{
+    width: 556px;
+    position: relative;
+  }
+  .twentyonedune{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  .one21:hover .twentyonedune{
+    opacity: 1;
+  }
+  .one22{
+    width: 556px;
+    position: relative;
+  }
+  .twentytwodune{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  .one22:hover .twentytwodune{
+    opacity: 1;
+  }
+  .one23{
+    width: 556px;
+    position: relative;
+  }
+  .twentythreedune{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  .one23:hover .twentythreedune{
+    opacity: 1;
+  }
+  .one24{
+    width: 556px;
+    position: relative;
+  }
+  .twentyfourdune{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  .one24:hover .twentyfourdune{
+    opacity: 1;
+  }
+  .darksty{
+    list-style: none;
+    list-style-type: none;
+  }
+  .hover:hover{
+    color: blue;
+  }
+  .classmin1{
+    display: none;
+  }
+  
+  
+  .two{
+    margin-top: 150px;
+    margin-left: 50px; 
+    margin-left: 50px;
+    margin-left: 50px;  
+    
+    
+  }
+  .gun{
+    margin-top: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+  }
+  .smallnav{
+    display: none;
+  }
+  .bullet{
+    display: none;
+  }
+  
+  
+  
+  
+  
+  
+  @media only screen and (max-width: 480px){
+    *{
+      margin: 0px;
+      padding: 0px;
+      box-sizing: border-box;
+    }
+    body,html{
+      overflow-x: hidden !important;
+    }
+  
+  .smallnav{
+    display: contents;
+    width: 100%;
+  }
+    .navlink{
+      display: none;
+    }
+    .navlink2{
+      display: none;
+    }
+      .navbar-space{
+        width: 120px; text-align: center;
+        position: relative; 
+         display: flex;
+         top: -40px;
+         margin-left: 140px;
+      }
+  
+      .bold{
+        text-align: center; justify-content: center;
+        margin-left: 10px;
+      }
+      .links{
+        margin-left: auto; margin-top: 30px;
+        display: content; align-items: center; gap: 20px;
+      }
+      .navbar{
+        display: contents; color: white;
+      }
+      .scr-wid{
+        width: 100%;
+        display: none;
+      
+      }
+   
+      .sidepanel {
+        height: 550px; 
+        width: 0; 
+        position: fixed; 
+        z-index: 1; 
+        top: 0;
+        left: 0;
+        background-color: #111; 
+        overflow-x: hidden; 
+        padding-top: 60px; 
+        transition: 0.5s;
+      }
+      
+     
+      .sidepanel a {
+        padding: 8px 8px 8px 32px;
+        text-decoration: none;
+        font-size: 25px;
+        color: #818181;
+        display: block;
+        transition: 0.3s;
+      }
+      
+  
+      .sidepanel a:hover {
+        color: #f1f1f1;
+      }
+      
+  
+      .sidepanel .closebtn {
+        position: absolute;
+        top: 0;
+        right: 25px;
+        font-size: 36px;
+        margin-left: 50px;
+      }
+      
+  
+      .openbtn {
+        font-size: 20px;
+        cursor: pointer;
+        background-color: #111;
+        color: white;
+        padding: 10px 15px;
+        border: none;
+      }
+      
+      .openbtn:hover {
+        background-color: #444;
+      }
+   
+    .one1{
+     width: 166px;
+      position: relative;
+    }
+    .onedune{
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    .div1clss{
+       display: content;
+    }
+    .gyat{
+      display: none;
+    }
+  
+    .one1{
+      width: 166px;
+      position: relative;
+    }
+    .onedune{
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    .one1:hover .onedune{
+      opacity: 1;
+    }
+    
+    .one2{
+      width: 166px;
+      position: relative;
+    }
+    .twodune{
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    .one2:hover .twodune{
+      opacity: 1;
+    }
+    .one3{
+      width: 166px;
+      position: relative;
+    }
+    .threedune{
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    .one3:hover .threedune{
+      opacity: 1;
+    }
+    .one4{
+      width: 166px;
+      position: relative;
+    }
+    .fourdune{
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    .one4:hover .fourdune{
+      opacity: 1;
+    }
+    .one5{
+      width: 166px;
+      position: relative;
+    }
+    .fivedune{
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    .one5:hover .fivedune{
+      opacity: 1;
+    }
+    .one6{
+      width: 166px;
+      position: relative;
+    }
+    .sixdune{
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    .one6:hover .sixdune{
+      opacity: 1;
+    }
+    .one7{
+      width: 166px;
+      position: relative;
+    }
+    .sevendune{
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    .one7:hover .sevendune{
+      opacity: 1;
+    }
+    .one8{
+      width: 166px;
+      position: relative;
+    }
+    .eightdune{
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    .one8:hover .eightdune{
+      opacity: 1;
+    }
+    .one9{
+      width: 166px;
+      position: relative;
+    }
+    .ninedune{
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    .one9:hover .ninedune{
+      opacity: 1;
+    }
+    .one10{
+      width: 166px;
+      position: relative;
+    }
+    .tendune{
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    .one10:hover .tendune{
+      opacity: 1;
+    }
+    .one11{
+      width: 166px;
+      position: relative;
+    }
+    .elevendune{
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    .one11:hover .elevendune{
+      opacity: 1;
+    }
+    .one12{
+      width: 166px;
+      position: relative;
+    }
+    .twelvedune{
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    .one12:hover .twelvedune{
+      opacity: 1;
+    }
+    .one13{
+      width: 166px;
+      position: relative;
+    }
+    .thirteendune{
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    .one13:hover .thirteendune{
+      opacity: 1;
+    }
+    .one14{
+      width: 166px;
+      position: relative;
+    }
+    .fourteendune{
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    .one14:hover .fourteendune{
+      opacity: 1;
+    }
+    .one15{
+      width: 166px;
+      position: relative;
+    }
+    .fifteendune{
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    .one15:hover .fifteendune{
+      opacity: 1;
+    }
+    .one16{
+      width: 166px;
+      position: relative;
+    }
+    .sixteendune{
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    .one16:hover .sixteendune{
+      opacity: 1;
+    }
+    .one17{
+      width: 166px;
+      position: relative;
+    }
+    .seventeendune{
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    .one17:hover .seventeendune{
+      opacity: 1;
+    }
+    .one18{
+      width: 166px;
+      position: relative;
+    }
+    .eighteendune{
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    .one18:hover .eighteendune{
+      opacity: 1;
+    }
+    .one19{
+      width: 166px;
+      position: relative;
+    }
+    .nineteendune{
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    .one19:hover .nineteendune{
+      opacity: 1;
+    }
+    .one20{
+      width: 166px;
+      position: relative;
+    }
+    .twentydune{
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    .one20:hover .twentydune{
+      opacity: 1;
+    }
+    .one21{
+      width: 166px;
+      position: relative;
+    }
+    .twentyonedune{
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    .one21:hover .twentyonedune{
+      opacity: 1;
+    }
+    .one22{
+      width: 166px;
+      position: relative;
+    }
+    .twentytwodune{
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    .one22:hover .twentytwodune{
+      opacity: 1;
+    }
+    .one23{
+      width: 166px;
+      position: relative;
+    }
+    .twentythreedune{
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    .one23:hover .twentythreedune{
+      opacity: 1;
+    }
+    .one24{
+      width: 166px;
+      position: relative;
+    }
+    .twentyfourdune{
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    .one24:hover .twentyfourdune{
+      opacity: 1;
+    }
+    .dival{
+      display: none;
+    }
+    
+    .bullet{
+      display: contents;
+    }
+    .smallnav{
+      display: content;
+    }
+    
+    .space-x{
+     display: flex;
+     margin-top: -55px;  gap: 20px; text-align: center;
+      margin-left: 320px; 
+      position: relative;
+      top: -14px;
+      }
+  
+      .alligns{
+        display: none;
+      }
+      .wid-sub{
+        display: content;
+      }
+    }
+    
